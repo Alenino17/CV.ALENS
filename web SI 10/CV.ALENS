@@ -1,0 +1,64 @@
+<html>
+    <head
+        
+        <body>
+            
+            <h1 align="center">cv Muhammad Bintang Alenino</h1>
+            <P>Saya adalah mahasiswa Semester 1 jurusan sistem informasi
+                di Sekolah TInggi Teknologi Terpadu Nurul Fikri
+                sekarang sedang belajar menjadi web developer,
+                Saya berasal dari Jakarta timur, 
+                Berikut detail diri saya <p>
+
+                    <hr>
+
+                    <h3>Detail diri saya</h3>
+                    <ol>
+                        <li>Muhammad Bintang Alenino</li>
+                        <li>0110122044</li>
+                        <li>Rombel SI10</li>
+                        <LI>Jakarta Timur</LI>
+                    </ol>
+                    <hr> 
+
+                    <h3>hobi</h3>
+                    <ul>
+                        <li>main game</li>
+                        <li>basket</li>
+                        <li>futsal</li>
+                    </ul>
+                    <img height="250" width="250" src="image/web.png" alt="web developer">
+
+                    <table border="1"
+                        <tr>
+                            <td>baris 1 kolom 1</td>
+                            <td>baris 2 kolom 2</td>
+                            <td>baris 3 kolom 3</td>
+                        </tr>
+                        <tr>
+                            <td>baris 2 kolom 1</td>
+                            <td>baris 2 kolom 2</td>
+                        </tr>
+                        <tr>
+                            <td>baris 3 kolom 1</td>
+                        </tr>
+                    </table>
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <hr>
+
+
+
+         
+        </body>
+    </head>
+</html>
